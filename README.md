@@ -2,7 +2,9 @@
 Inlämning tisdag 18 sept
 
 
-Läs på om git
+Läs på lite om git
+
+Hjälp med flex och grid
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
